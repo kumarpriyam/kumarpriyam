@@ -1,6 +1,7 @@
 ![image](https://github.com/kumarpriyam/kumarpriyam/assets/170072496/463ab4c4-1c2f-4cde-9587-0b2285b957f1)
 <h1 align="center">Hi 👋, I'm Priyam Kumar</h1>
 <h3 align="center">👀 I use data to create solutions for business and organizations</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8890b3836e5c774ccf3074efabcd95f31dbce1fcf4e0ed8a696f8b43f959eae/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarpriyam&label=Profile%20views&color=0e75b6&style=flat" alt="kumarpriyam" /> </p>
 
