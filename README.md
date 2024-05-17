@@ -1,3 +1,4 @@
+![image](https://github.com/kumarpriyam/kumarpriyam/assets/170072496/463ab4c4-1c2f-4cde-9587-0b2285b957f1)
 <h1 align="center">Hi 👋, I'm Priyam Kumar</h1>
 <h3 align="center">👀 I use data to create solutions for business and organizations</h3>
 
